@@ -54,7 +54,7 @@
 }
 
 #apps{
-    display: flex;
+    display: none;
     cursor: pointer;
 }
 
