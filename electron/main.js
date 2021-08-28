@@ -17,5 +17,3 @@ app.on('window-all-closed', () => {
     app.quit()
   }
 })
-
-app.dock.hide()
