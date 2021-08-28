@@ -1,14 +1,13 @@
-const { BrowserWindow } = require('electron')
+const { BrowserWindow, Menu } = require('electron')
 
 function createWindow () {
   const win = new BrowserWindow({
     width: 250,
-    height: 310,
-    /* show:false,
-    frame: false,
-    resizable: false,
-    fullscreenable: false, */
+    height: 310
   })
+
+  const menuContent = Menu.buildFromTemplate([]);
+  Menu.setApplicationMenu(menuContent);
 
   win.loadFile('index.html')
   
