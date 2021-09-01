@@ -1,6 +1,7 @@
-## App ToEasy made in Electron
+# 🎈 App ToEasy 
 
-### An application made in Electron, which uses the pomodoro technique to regulate your study schedule, to help you focus.
+## 👾An application made in Electron, which uses the pomodoro technique to regulate your study schedule, to help you focus.
+<img alt="Node" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" width="90px"/> <img alt="Electron" src="https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron" width="98px"/>
 
 
 ![image](https://user-images.githubusercontent.com/77704994/131227307-ae6485af-c076-414e-95f1-15a4904e539b.png)
